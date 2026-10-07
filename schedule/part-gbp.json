@@ -1,0 +1,118 @@
+[
+  {
+    "date": "2026-10-09T11:00:00+03:00",
+    "platform": "gmb",
+    "type": "photo",
+    "media": [
+      "images/google-gallery/01-desktop-pos-1200x900.png",
+      "images/google-gallery/02-web-pos-browser-1200x900.png"
+    ],
+    "text": "",
+    "lang": "en",
+    "topic": "Google gallery: desktop + web POS"
+  },
+  {
+    "date": "2026-10-13T11:00:00+03:00",
+    "platform": "gmb",
+    "type": "photo",
+    "media": [
+      "videos/google-gallery/web-and-desktop-1920x1080.mp4"
+    ],
+    "text": "",
+    "lang": "en",
+    "topic": "Google gallery: video: web and desktop POS"
+  },
+  {
+    "date": "2026-10-16T11:00:00+03:00",
+    "platform": "gmb",
+    "type": "photo",
+    "media": [
+      "images/google-gallery/03-admin-dashboard-1200x900.png",
+      "images/google-gallery/04-receipt-vat-1200x900.png"
+    ],
+    "text": "",
+    "lang": "en",
+    "topic": "Google gallery: owner dashboard + VAT receipt"
+  },
+  {
+    "date": "2026-10-20T11:00:00+03:00",
+    "platform": "gmb",
+    "type": "photo",
+    "media": [
+      "videos/google-gallery/customer-display-1920x1080.mp4"
+    ],
+    "text": "",
+    "lang": "en",
+    "topic": "Google gallery: video: customer display"
+  },
+  {
+    "date": "2026-10-23T11:00:00+03:00",
+    "platform": "gmb",
+    "type": "photo",
+    "media": [
+      "images/google-gallery/05-customer-display-1200x900.png",
+      "images/google-gallery/06-price-checker-1200x900.png"
+    ],
+    "text": "",
+    "lang": "en",
+    "topic": "Google gallery: customer display + price checker"
+  },
+  {
+    "date": "2026-10-27T11:00:00+02:00",
+    "platform": "gmb",
+    "type": "photo",
+    "media": [
+      "images/google-gallery/07-arabic-dark-1200x900.png",
+      "images/google-gallery/08-inventory-1200x900.png"
+    ],
+    "text": "",
+    "lang": "en",
+    "topic": "Google gallery: Arabic dark + inventory"
+  },
+  {
+    "date": "2026-10-30T11:00:00+02:00",
+    "platform": "gmb",
+    "type": "photo",
+    "media": [
+      "videos/google-gallery/offline-then-sync-1920x1080.mp4"
+    ],
+    "text": "",
+    "lang": "en",
+    "topic": "Google gallery: video: offline then sync"
+  },
+  {
+    "date": "2026-11-03T11:00:00+02:00",
+    "platform": "gmb",
+    "type": "photo",
+    "media": [
+      "images/google-gallery/09-reports-1200x900.png",
+      "images/google-gallery/10-multi-country-1200x900.png"
+    ],
+    "text": "",
+    "lang": "en",
+    "topic": "Google gallery: reports + multi-country"
+  },
+  {
+    "date": "2026-11-06T11:00:00+02:00",
+    "platform": "gmb",
+    "type": "photo",
+    "media": [
+      "videos/google-gallery/stock-to-purchase-order-1920x1080.mp4"
+    ],
+    "text": "",
+    "lang": "en",
+    "topic": "Google gallery: video: stock to purchase order"
+  },
+  {
+    "date": "2026-11-10T11:00:00+02:00",
+    "platform": "gmb",
+    "type": "photo",
+    "media": [
+      "images/google-gallery/11-offline-selling-1200x900.png",
+      "images/google-gallery/12-purchase-orders-1200x900.png"
+    ],
+    "text": "",
+    "lang": "en",
+    "topic": "Google gallery: offline selling + purchasing"
+  }
+]
