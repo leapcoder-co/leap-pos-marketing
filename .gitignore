@@ -1,0 +1,7 @@
+raw/
+work/
+scripts/
+templates/
+*.log
+.DS_Store
+node_modules/
